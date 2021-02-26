@@ -7,15 +7,18 @@
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
-### 👀Sobre
+### 👀 Sobre
 
 Projeto do **NLW#4** para o aprendizado de backend feito em **nodeJS**.
+Utilizando testes com **Jest**
 
 ---
 
 ### ⚙ Tecnologias utilizadas
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
+- [TypeORM](https://typeorm.io/#/)
+- [Jest](https://jestjs.io/)
 
 ---
 ### 📂 Como baixar o projeto
